@@ -35,3 +35,25 @@ p span.i3{
 	padding-left: 4em;
 	text-indent: -1em;
 }
+
+/* Table */
+#chapter-1-2 table,
+#chapter-1-4 table{
+	margin: auto;
+}
+
+#chapter-1-2 table td:last-child{
+	font-variant-numeric: tabular-nums;
+	padding-left: 2em;
+	text-align: right;
+}
+
+#chapter-1-4 table td:nth-child(2){
+	font-variant-numeric: tabular-nums;
+	padding-left: 1em;
+	text-align: right;
+}
+
+#chapter-1-4 table td:last-child{
+	text-align: center;
+}
