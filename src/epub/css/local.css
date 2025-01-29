@@ -57,3 +57,9 @@ p span.i3{
 #chapter-1-4 table td:last-child{
 	text-align: center;
 }
+
+/* List */
+#chapter-1-4 ol {
+	margin-top: 1em;
+	margin-bottom: 1em;
+}
