@@ -59,9 +59,9 @@ p span.i3{
 }
 
 /* List */
-#chapter-1-4 ol {
-	margin-top: 1em;
+#chapter-1-4 ol{
 	margin-bottom: 1em;
+	margin-top: 1em;
 }
 
 /* Centered dedications */
@@ -92,16 +92,16 @@ section[epub|type~="dedication"] > *{
 	}
 }
 /* End centered dedications */
-/* Dedication */
 
-section[epub|type~="dedication"] footer {
+/* Dedication */
+section[epub|type~="dedication"] footer{
 	margin-top: 1em;
 }
 
-section[epub|type~="dedication"] footer p {
+section[epub|type~="dedication"] footer p{
 	text-align: right;
 }
 
-section[epub|type~="dedication"] footer p:last-of-type {
+section[epub|type~="dedication"] footer p:last-of-type{
 	text-align: left;
 }
