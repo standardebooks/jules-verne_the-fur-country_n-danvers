@@ -104,7 +104,7 @@ section[epub|type~="dedication"] footer p{
 }
 
 section[epub|type~="dedication"] footer p:last-of-type{
-	text-align: left;
+	text-align: initial;
 }
 
 [epub|type~="z3998:signature"]{
