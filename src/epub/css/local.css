@@ -96,6 +96,7 @@ section[epub|type~="dedication"] > *{
 /* Dedication */
 section[epub|type~="dedication"] footer{
 	margin-top: 1em;
+	text-align: right;
 }
 
 section[epub|type~="dedication"] footer p{
@@ -104,4 +105,8 @@ section[epub|type~="dedication"] footer p{
 
 section[epub|type~="dedication"] footer p:last-of-type{
 	text-align: left;
+}
+
+[epub|type~="z3998:signature"]{
+	font-variant: small-caps;
 }
