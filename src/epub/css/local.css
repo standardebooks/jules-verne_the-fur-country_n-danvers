@@ -110,3 +110,8 @@ section[epub|type~="dedication"] footer p:last-of-type{
 [epub|type~="z3998:signature"]{
 	font-variant: small-caps;
 }
+
+/* Astronomical symbols */
+#chapter-1-23 img {
+	max-height: 1em;
+}
