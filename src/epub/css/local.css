@@ -116,3 +116,8 @@ section[epub|type~="dedication"] footer p:last-of-type{
 	max-height: 1em;
 	vertical-align: middle;
 }
+
+/* Centralize blockquote in chapter-1-1 */
+#chapter-1-1 blockquote {
+	text-align: center;
+}
