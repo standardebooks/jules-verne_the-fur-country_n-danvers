@@ -52,9 +52,11 @@
 		<meta property="term" refines="#subject-4">sh2010103519</meta>
 		<meta property="se:subject">Adventure</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A group of colonists attempt to settle in the Arctic Circle.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Lieutenant Hobson is an officer employed by the Hudson‘s Bay Company and is tasked with the mission of travelling to the Arctic Circle and building an outpost there, with the goal of collecting valuable furs for the Company.&lt;/p&gt;
+			&lt;p&gt;After a long travel, the Lieutenant and his party settle in a small peninsula and build a small fort. Initially successful, the small colony finds itself in danger when an earthquake severs their settlemeent from the mainland.&lt;/p&gt;
+			&lt;p&gt;Written during a period in which the fur trade was an important economic enterprise and the northern regions of America were still unexplored, &lt;i&gt;The Fur Country&lt;/i&gt; follows the attempts of colonial settlers to claim and subdue “savage” territories, a common theme at the time. Like other of &lt;a href="https://standardebooks.org/ebooks/jules-verne"&gt;Jules Verne‘s&lt;/a&gt; works, this novel interposes a fictional narrative with scientific explanations for elements of the plot.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/8991</dc:source>
