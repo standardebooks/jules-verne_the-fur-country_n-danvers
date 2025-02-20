@@ -39,7 +39,7 @@ p span.i3{
 /* Table */
 #chapter-1-2 table,
 #chapter-1-4 table{
-	margin: auto;
+	margin: 1em auto;
 }
 
 #chapter-1-2 table td:last-child{
