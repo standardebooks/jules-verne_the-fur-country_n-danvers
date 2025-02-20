@@ -58,12 +58,6 @@ p span.i3{
 	text-align: center;
 }
 
-/* List */
-#chapter-1-4 ol{
-	margin-bottom: 1em;
-	margin-top: 1em;
-}
-
 /* Centered dedications */
 section[epub|type~="dedication"]{
 	text-align: center;
