@@ -48,14 +48,19 @@ p span.i3{
 	text-align: right;
 }
 
-#chapter-1-4 table td:nth-child(2){
+#chapter-1-4 table td:first-child,
+#chapter-1-4 table td:last-child {
+	text-align: center;
+}
+
+#chapter-1-4 table td:nth-child(2) {
+	text-align: left;
+}
+
+#chapter-1-4 table td:nth-child(3){
 	font-variant-numeric: tabular-nums;
 	padding-left: 1em;
 	text-align: right;
-}
-
-#chapter-1-4 table td:last-child{
-	text-align: center;
 }
 
 /* Centered dedications */
