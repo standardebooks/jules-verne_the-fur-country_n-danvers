@@ -63,6 +63,11 @@ p span.i3{
 	text-align: right;
 }
 
+/* List in chapter-1-4 */
+#chapter-1-4 ol {
+	column-count: 2;
+}
+
 /* Centered dedications */
 section[epub|type~="dedication"]{
 	text-align: center;
