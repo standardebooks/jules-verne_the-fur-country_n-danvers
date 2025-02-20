@@ -117,9 +117,10 @@ section[epub|type~="dedication"] footer p:last-of-type{
 	vertical-align: middle;
 }
 
-/* Centralize blockquote in chapter-1-1 */
+/* Blockquote in chapter-1-1 */
 #chapter-1-1 blockquote{
 	text-align: center;
+	font-variant: small-caps;
 }
 
 [epub|type~="z3998:poem"] header p {
