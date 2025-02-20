@@ -121,3 +121,7 @@ section[epub|type~="dedication"] footer p:last-of-type{
 #chapter-1-1 blockquote{
 	text-align: center;
 }
+
+[epub|type~="z3998:poem"] header p {
+	text-align: center;
+}
