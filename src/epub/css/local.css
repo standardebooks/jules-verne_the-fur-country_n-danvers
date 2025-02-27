@@ -1,5 +1,6 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
+
 /* Poetry */
 [epub|type~="z3998:poem"] p{
 	text-align: initial;
@@ -42,11 +43,11 @@ table{
 }
 
 #chapter-1-4 table td:first-child,
-#chapter-1-4 table td:last-child {
+#chapter-1-4 table td:last-child{
 	text-align: center;
 }
 
-#chapter-1-4 table td:nth-child(2) {
+#chapter-1-4 table td:nth-child(2){
 	text-align: initial;
 }
 
@@ -57,7 +58,7 @@ table{
 }
 
 /* List in chapter-1-4 */
-#chapter-1-4 ol {
+#chapter-1-4 ol{
 	column-count: 2;
 }
 
@@ -104,7 +105,7 @@ section[epub|type~="dedication"] footer p:last-of-type{
 	text-align: initial;
 }
 
-section[epub|type~="dedication"] p:first-of-type {
+section[epub|type~="dedication"] p:first-of-type{
 	font-variant: small-caps;
 }
 
@@ -120,10 +121,10 @@ section[epub|type~="dedication"] p:first-of-type {
 
 /* Blockquote in chapter-1-1 */
 #chapter-1-1 blockquote{
-	text-align: center;
 	font-variant: small-caps;
+	text-align: center;
 }
 
-[epub|type~="z3998:poem"] header p {
+[epub|type~="z3998:poem"] header p{
 	text-align: center;
 }
