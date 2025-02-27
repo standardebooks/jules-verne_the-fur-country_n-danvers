@@ -1,11 +1,5 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
-
-/* Temperature */
-[epub|type~="se:temperature"]{
-	font-variant: all-small-caps;
-}
-
 /* Poetry */
 [epub|type~="z3998:poem"] p{
 	text-align: initial;
