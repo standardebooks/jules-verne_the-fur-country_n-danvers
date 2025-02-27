@@ -48,7 +48,7 @@ p span.i3{
 }
 
 #chapter-1-4 table td:nth-child(2) {
-	text-align: left;
+	text-align: initial;
 }
 
 #chapter-1-4 table td:nth-child(3){
