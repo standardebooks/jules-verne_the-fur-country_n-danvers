@@ -115,7 +115,7 @@ section[epub|type~="dedication"] p:first-of-type{
 
 /* Astronomical symbols */
 #chapter-1-23 img{
-	max-height: 1em;
+	height: 1em;
 	vertical-align: middle;
 }
 
