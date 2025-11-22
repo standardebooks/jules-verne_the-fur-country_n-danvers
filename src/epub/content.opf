@@ -33,7 +33,7 @@
 		<meta property="file-as" refines="#title">Fur Country, The</meta>
 		<dc:title id="subtitle">Seventy Degrees North Latitude</dc:title>
 		<meta property="file-as" refines="#subtitle">Seventy Degrees North Latitude</meta>
-		<meta property="dcterms:alternate" refines="#subtitle">70 Degrees North Latitude</meta>
+		<meta property="dcterms:alternative" refines="#subtitle">70 Degrees North Latitude</meta>
 		<meta property="title-type" refines="#subtitle">subtitle</meta>
 		<dc:title id="fulltitle">The Fur Country: Seventy Degrees North Latitude</dc:title>
 		<meta property="file-as" refines="#fulltitle">Fur Country, The</meta>
