@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/jules-verne/the-fur-country/n-danvers</dc:identifier>
 		<dc:date>2025-03-04T03:35:37Z</dc:date>
@@ -56,12 +56,12 @@
 		<meta id="collection-1" property="belongs-to-collection">Voyages Extraordinaires</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">10</meta>
-		<dc:description id="description">A group of colonists attempt to settle in the Arctic Circle.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A group of colonists attempt to settle in the Arctic Circle.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;Lieutenant Hobson is an officer employed by the Hudson’s Bay Company, tasked with the mission of traveling to the Arctic Circle and building an outpost there in order to collect valuable furs.&lt;/p&gt;
 			&lt;p&gt;After a long voyage, the Lieutenant and his party settle on a small peninsula and build a modest fort. Though initially successful, the colony soon finds itself in grave danger when an earthquake severs their settlement from the mainland.&lt;/p&gt;
 			&lt;p&gt;Written during a period in which the fur trade was an important economic enterprise and the northern regions of America were still unexplored, &lt;i&gt;The Fur Country&lt;/i&gt; follows the attempts of colonial settlers to claim and subdue “savage” territories. Like many of &lt;a href="https://standardebooks.org/ebooks/jules-verne"&gt;Verne’s&lt;/a&gt; books, this novel blends a fictional narrative with a real scientific background.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/8991</dc:source>
 		<dc:source>https://archive.org/details/furcountryorseve00vernuoft</dc:source>
