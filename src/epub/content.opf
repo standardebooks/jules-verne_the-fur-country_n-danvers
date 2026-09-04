@@ -39,10 +39,10 @@
 		<dc:title id="fulltitle">The Fur Country: Seventy Degrees North Latitude</dc:title>
 		<meta property="file-as" refines="#fulltitle">Fur Country, The</meta>
 		<meta property="title-type" refines="#fulltitle">expanded</meta>
-		<dc:subject id="subject-1">Survival -- Fiction</dc:subject>
-		<dc:subject id="subject-2">Earthquakes -- Fiction</dc:subject>
-		<dc:subject id="subject-3">Fur traders -- Fiction</dc:subject>
-		<dc:subject id="subject-4">Northwest Territories -- Fiction</dc:subject>
+		<dc:subject id="subject-1">Survival--Fiction</dc:subject>
+		<dc:subject id="subject-2">Earthquakes--Fiction</dc:subject>
+		<dc:subject id="subject-3">Fur traders--Fiction</dc:subject>
+		<dc:subject id="subject-4">Northwest Territories--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2010114096</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
