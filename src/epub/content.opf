@@ -88,6 +88,7 @@
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">Stanisław Witkiewicz</dc:contributor>
 		<meta property="file-as" refines="#artist">Witkiewicz, Stanisław</meta>
+		<meta property="schema:alternateName" refines="#artist">Stanislovas Vitkevičius</meta>
 		<link href="https://en.wikipedia.org/wiki/Stanis%C5%82aw_Witkiewicz" refines="#artist" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n81003959.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
